@@ -1,0 +1,1 @@
+draw_sprite_ext(global.spr_polka, 0, 0, 0, 1, 1, 0, c_ltgray, 1);
