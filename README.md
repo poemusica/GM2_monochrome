@@ -1,2 +1,2 @@
 # GM2_monochrome
-monochrome GM2 game
+monochrome Game Maker 2 game
